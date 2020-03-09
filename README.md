@@ -1,2 +1,0 @@
-# HooksExamples
-Created with CodeSandbox
